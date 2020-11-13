@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\imanz\Documents\Atmel Studio\7.0\Task3\Task3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\imanz\Documents\Atmel Studio\7.0\Task3\Task3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\imanz\Documents\Atmel Studio\7.0\Task3\Task3\Debug\Task3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Task3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Task3.map</FILE>
+  <FILE>Task3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>c:\users\imanz\Documents\Atmel Studio\7.0\Task3\Task3\main.asm</FILE><LINE>10</LINE></main>
+  <loop><FILE>c:\users\imanz\Documents\Atmel Studio\7.0\Task3\Task3\main.asm</FILE><LINE>16</LINE></loop>
+  <group1><FILE>c:\users\imanz\Documents\Atmel Studio\7.0\Task3\Task3\main.asm</FILE><LINE>22</LINE></group1>
+  <group2><FILE>c:\users\imanz\Documents\Atmel Studio\7.0\Task3\Task3\main.asm</FILE><LINE>28</LINE></group2>
+  <group3><FILE>c:\users\imanz\Documents\Atmel Studio\7.0\Task3\Task3\main.asm</FILE><LINE>34</LINE></group3>
+  <delay><FILE>c:\users\imanz\Documents\Atmel Studio\7.0\Task3\Task3\main.asm</FILE><LINE>40</LINE></delay>
+  <L1><FILE>c:\users\imanz\Documents\Atmel Studio\7.0\Task3\Task3\main.asm</FILE><LINE>44</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
